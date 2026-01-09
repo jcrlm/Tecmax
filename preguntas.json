@@ -1,0 +1,17 @@
+{
+  "cliente": [
+    "Nombre del cliente",
+    "Teléfono",
+    "Dirección"
+  ],
+  "equipo": [
+    "Marca",
+    "Modelo",
+    "Número de serie"
+  ],
+  "servicio": [
+    "¿Desea cotización? (si/no)",
+    "Falla reportada",
+    "Observaciones"
+  ]
+}
